@@ -44,7 +44,7 @@ main{
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  background-image: url(assets/profile.png);
+  background-image: url(assets/teste.png);
   background-size: cover;
   background-position: center;
 }
